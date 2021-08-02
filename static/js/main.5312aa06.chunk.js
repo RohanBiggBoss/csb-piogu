@@ -1,0 +1,2 @@
+(this["webpackJsonpintroduction-to-jsx"]=this["webpackJsonpintroduction-to-jsx"]||[]).push([[0],{10:function(t,e,n){"use strict";n.r(e);var c=n(1),o=n(3),i=n.n(o),s=(n(8),n(0));function r(){return Object(s.jsxs)("div",{className:"App",children:[Object(s.jsx)("h1",{children:"Hello CodeSandbox"}),Object(s.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}var d=document.getElementById("root");i.a.render(Object(s.jsx)(c.StrictMode,{children:Object(s.jsx)(r,{})}),d)},8:function(t,e,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.5312aa06.chunk.js.map

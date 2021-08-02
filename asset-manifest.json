@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rohanbiggboss.github.io/csb-piogu/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://rohanbiggboss.github.io/csb-piogu/static/js/main.5312aa06.chunk.js",
+    "main.js.map": "https://rohanbiggboss.github.io/csb-piogu/static/js/main.5312aa06.chunk.js.map",
+    "runtime-main.js": "https://rohanbiggboss.github.io/csb-piogu/static/js/runtime-main.f7cc58de.js",
+    "runtime-main.js.map": "https://rohanbiggboss.github.io/csb-piogu/static/js/runtime-main.f7cc58de.js.map",
+    "static/js/2.e7e40a36.chunk.js": "https://rohanbiggboss.github.io/csb-piogu/static/js/2.e7e40a36.chunk.js",
+    "static/js/2.e7e40a36.chunk.js.map": "https://rohanbiggboss.github.io/csb-piogu/static/js/2.e7e40a36.chunk.js.map",
+    "index.html": "https://rohanbiggboss.github.io/csb-piogu/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://rohanbiggboss.github.io/csb-piogu/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.e7e40a36.chunk.js.LICENSE.txt": "https://rohanbiggboss.github.io/csb-piogu/static/js/2.e7e40a36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7cc58de.js",
+    "static/js/2.e7e40a36.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.5312aa06.chunk.js"
+  ]
+}
